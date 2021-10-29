@@ -1,0 +1,1 @@
+{"mappings":"AAAA,KAGA,YAAA,CADA,YAAA,CADA,WAGA,CAEA,SACA,UACA,CAEA,mBACA,kBACA","sources":["public/index.css"],"sourcesContent":["body {\n  width: 100vw;\n  height: 100vh;\n  display: flex;\n}\n\n.sidebar {\n  width: 30vw;\n}\n\n.single-slider-div {\n  margin-bottom: 0.2em;\n}"],"names":[],"version":3,"file":"index.d327db08.css.map"}
